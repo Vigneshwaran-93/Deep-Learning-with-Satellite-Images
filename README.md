@@ -25,3 +25,11 @@ NDVI can be applied in various fields, including:
 - **Ecology**: Studying vegetation dynamics and ecosystem changes.
 
 Source : - [Wikipedia: Normalized Difference Vegetation Index](https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index)
+
+## Satellite Image Source
+
+## Reading Tiff Iamges
+
+## Processing and export
+
+## Analysis
