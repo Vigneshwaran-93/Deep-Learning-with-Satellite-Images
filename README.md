@@ -27,6 +27,8 @@ NDVI can be applied in various fields, including:
 Source : - [Wikipedia: Normalized Difference Vegetation Index](https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index)
 
 ## Satellite Image Source
+- https://earthexplorer.usgs.gov/
+- https://www.sentinel-hub.com/
 
 ## Reading Tiff Iamges
 
